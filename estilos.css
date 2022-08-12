@@ -1,0 +1,32 @@
+
+
+body {
+    background-color: #6a6770;
+}
+
+.contenedor{
+
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding-bottom: 5%;
+    color: #ffe8c6;
+    font-family: 'Silkscreen';
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.71em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
